@@ -24,7 +24,8 @@ Configure aws cli in CloudShell
 
 After configuration, I can able to list my s3 buckets from CloudShell console.
 
-<img width="634" alt="image" src="https://github.com/kohlidevops/aws-s3-mfa-delete/assets/100069489/8caff2a7-8167-4fb5-a9ec-19914e604d95">
+<img width="851" alt="image" src="https://github.com/kohlidevops/aws-s3-mfa-delete/assets/100069489/6d3f01dc-0180-4cad-9ee0-d865d822a384">
+
 
 **Enable MFA**
 
