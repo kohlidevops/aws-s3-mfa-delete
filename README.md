@@ -31,6 +31,10 @@ After configuration, I can able to list my s3 buckets from CloudShell console.
 
 To enable a MFA for S3 bucket with below command.
 
+**You can use below link to use aws-cli**
+
+**https://github.com/kohlidevops/aws-s3-mfa-delete/blob/main/mfa-delete.sh**
+
 # enable mfa delete
 
 **aws s3api put-bucket-versioning --bucket <bucket-name> --versioning-configuration Status=Enabled,MFADelete=Enabled --mfa "arn-of-mfa-device mfa-code" --profile root-mfa-delete-demo**
